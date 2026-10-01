@@ -1,0 +1,8 @@
+{
+  "name": "Remix ZUB-ZERO",
+  "description": "Next-gen AI movie, drama, action \u0026 twilight generator, idea-to-video studio, marketplace, luxury hotel locator, and fashion \u0026 style storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

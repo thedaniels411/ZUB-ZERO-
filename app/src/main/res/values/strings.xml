@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZUB-ZERO</string>
+    <string name="tagline">Cinematic AI Studio &amp; Lifestyle Hub</string>
+    <string name="tab_studio">AI Cinema</string>
+    <string name="tab_generator">Generators</string>
+    <string name="tab_marketplace">Marketplace</string>
+    <string name="tab_hotels">Hotels</string>
+    <string name="tab_fashion">Fashion &amp; Style</string>
+</resources>
